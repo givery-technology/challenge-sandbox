@@ -1,0 +1,10 @@
+{
+  "editable": [
+    "index.js"
+  ],
+  "excludes": [
+    "challenge.json"
+  ],
+  "main": "index.js",
+  "allowNewFile": true
+}
