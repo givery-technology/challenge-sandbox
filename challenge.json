@@ -1,6 +1,7 @@
 {
   "editable": [
-    "index.js"
+    "index.js",
+    "config/account.json"
   ],
   "excludes": [
     "challenge.json"
