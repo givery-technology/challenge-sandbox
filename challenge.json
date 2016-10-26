@@ -3,6 +3,7 @@
     "index.js",
     "config/account.json"
   ],
+ "markdownTest": ["select.md"],
   "excludes": [
     "challenge.json"
   ],
