@@ -1,5 +1,6 @@
 {
   "editable": [
+    "index.html",
     "index.js",
     "config/account.json"
   ],
