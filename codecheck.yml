@@ -1,0 +1,4 @@
+build:
+  - echo 'Oh Yes!'
+env:
+  SANDBOX_VARIABLE: test
