@@ -12,6 +12,9 @@
   "excludes": [
     "challenge.json"
   ],
+  "cli": [
+    "Nodejs"
+  ],
   "main": "index.js",
   "allowNewFile": true
 }
