@@ -4,11 +4,13 @@
     "index.js",
     "config/account.json"
   ],
- "markdownTest": ["select.md"],
- "readme": {
-   "en": "readme.md",
-   "ja": "README_ja.md"
- },
+  "envvars": {
+  },
+  "markdownTest": ["select.md"],
+  "readme": {
+    "en": "readme.md",
+    "ja": "README_ja.md"
+  },
   "excludes": [
     "challenge.json"
   ],
