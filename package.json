@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-highcost",
+  "devDependencies" : {
+    "chai" : "^3.5.0",
+    "codecheck" : "^0.6.0"
+  }
+}
